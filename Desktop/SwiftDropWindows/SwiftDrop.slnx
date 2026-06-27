@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SwiftDropCore/SwiftDropCore.csproj" />
+  <Project Path="SwiftDropDesktop/SwiftDropDesktop.csproj" />
+  <Project Path="SwiftDropReceiver/SwiftDropReceiver.csproj" />
+</Solution>
